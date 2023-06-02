@@ -1,0 +1,4 @@
+.git/
+env
+*.sqlite3
+media
