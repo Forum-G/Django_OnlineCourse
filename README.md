@@ -6,7 +6,7 @@ This is a full-stack online course hosting web application built with Django. Us
 ## Database Structure
 I have included a database schema for this project, which is shown below:
 
-![Database Model](docs/Database%20Model.jpg)
+![Database Model](https://github.com/CodeForumizer/Django_OnlineCourse/assets/84411852/83154989-5d71-4a7e-8f43-f29d102f3846)
 
 ## Development
 I have developed this web application using an existing database schema as a starting point.
